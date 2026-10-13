@@ -1,5 +1,7 @@
 # Game-Theoretic Racing Toy
 
+**English** | [한국어](README_kr.md)
+
 **1v1 autonomous racing, solved six ways: optimal control, predict-then-plan, three game-theoretic solution concepts, and self-play deep RL.**
 
 How you *define* a racing problem decides how you can solve it. This repo puts the main formulations side by side in one small, fast simulator so their behavior can be compared directly: who overtakes, who blocks, and who crashes.
@@ -89,7 +91,7 @@ scripts/         train_rl.py, run_tournament.py, make_figures.py
 models/          ppo_selfplay.pkl (pretrained policy)
 results/         results.json (the tournament above), train_log.txt
 figures/         all figures and GIFs
-docs/            problem_formulation.md
+docs/            problem_formulation.md, problem_formulation_kr.md
 tests/           pytest
 ```
 

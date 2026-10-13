@@ -1,5 +1,7 @@
 # How you define the race decides how you solve it
 
+**English** | [한국어](problem_formulation_kr.md)
+
 The same 1v1 race becomes a different mathematical problem depending on **how you treat the opponent**:
 ignore it, predict it, assume it optimizes too, or learn against it.
 
